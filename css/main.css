@@ -125,7 +125,7 @@ textarea {
   height:250px;
 }
 
-#content {
+.content {
     background-color: #888;
     height:350px;
 
@@ -133,7 +133,7 @@ textarea {
     margin-bottom:100px;
 }
 
-.story {
+.contentBox {
 
     width: 80%;
     margin-left: auto;
@@ -143,11 +143,16 @@ textarea {
 
 }
 
-.story p {
-  
+.contentBox p {
+
 }
 
+.NewGameLink {
 
+  color: white;
+  text-decoration: none; /* no underline */
+
+}
 
 
 
