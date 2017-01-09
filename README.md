@@ -1,3 +1,3 @@
 # Projet_Semaine_Agile
 
-Mathieu Cecile Valentin Sansu Valentin Viguier Pol Chambost Côme Leleu Maxime Rochard
+Mathieu AMYOT, Cecile BALINI, Valentin SANSU, Valentin VIGUIER, Pol CHAMBOST, Côme LELEU, Maxime ROCHARD
